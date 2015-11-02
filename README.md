@@ -11,10 +11,10 @@
 
 ### Xcodeをインストールする
 
-- AppStoreからXcodeをインストールする
+- AppStoreからXcodeをインストールする
 - `$ xcode-select --install`
 
-### dotfilesをcloneする
+### dotfilesをcloneする
 
 ```
 $ cd ~/
@@ -35,7 +35,7 @@ $ sh osx.sh
 ```
 
 ### Homebrewをインストールする
-お気に入りのパッケージやアプリをCaskで一括インストールする
+お気に入りのパッケージやアプリをCaskで一括インストールする
 
 ```
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
