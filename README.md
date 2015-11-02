@@ -56,6 +56,12 @@ for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
 done
 ```
 
+### Gitの設定をする
+```
+$ git config --global user.name "p1ch_jp"
+$ git config --global user.email p1ch.jp@gmail.com
+```
+
 ## 手動でインストールするアプリ
 
 ### Mac App Store
