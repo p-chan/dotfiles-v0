@@ -44,16 +44,16 @@ $ brew bundle Brewfile
 ```
 
 ### シェルをzshに変更する
-preztoを導入したあとに、シェルをzshに変更する
+シェルをzshに変更して、preztoを導入する
 
 ```
+$ sudo sh -c 'echo $(which zsh) >> /etc/shells'
+$ chsh -s /usr/local/bin/zsh
 $ git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 $ setopt EXTENDED_GLOB
 for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
   ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
 done
-$ sudo sh -c 'echo $(which zsh) >> /etc/shells'
-$ chsh -s /usr/local/bin/zsh
 ```
 
 ## 手動でインストールするアプリ
