@@ -3,6 +3,16 @@
 ## 共通
 ログインする
 
+## Finder
+### サイドバー
+- [x] p1ch_jp
+- [x] Dropbox
+- [x] デスクトップ
+- [x] アプリケーション
+- [x] AirDrop
+- [x] iCloud Drive
+- [ ] Bonjour コンピュータ
+
 ## iTerm2
 ### Profiles
 #### Colors
