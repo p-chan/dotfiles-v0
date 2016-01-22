@@ -38,7 +38,6 @@ cask 'sketch-toolbox'
 cask 'virtualbox'
 cask 'vagrant'
 cask 'sequel-pro'
-cask 'mongohub'
 cask 'heroku-toolbelt'
 cask 'cyberduck'
 
