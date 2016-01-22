@@ -30,7 +30,6 @@ cask 'firefox-ja'
 
 ## communicate
 cask 'skype'
-cask 'caprine'
 
 ## design
 cask 'sketch-toolbox'
