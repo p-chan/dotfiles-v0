@@ -18,7 +18,7 @@ brew 'rbenv'
 brew 'ruby-build'
 
 ## Other
-berw 'tree'
+brew 'tree'
 brew 'sl'
 
 # Install Mac App
