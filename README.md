@@ -77,6 +77,11 @@ $ git config --global user.email p1ch.jp@gmail.com
 ### Other
 - GraffitiPot
 
+## 各アプリの設定
+
+### iTerm2
+[SMYCK](http://color.smyck.org)
+
 ## 参考
 - [umi-uyura/dotfiles](https://github.com/umi-uyura/dotfiles)
 - [ryonakae/dotfiles](https://github.com/ryonakae/dotfiles)
