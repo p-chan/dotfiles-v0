@@ -77,14 +77,6 @@ $ git config --global user.email p1ch.jp@gmail.com
 ### Other
 - GraffitiPot
 
-## 各アプリの設定
-
-### iTerm2
-[SMYCK](http://color.smyck.org)
-
-### Sublime Text 3
-[Sublime Text Icon, for Yosemite](https://dribbble.com/shots/1582459-Sublime-Text-Icon-for-Yosemite)
-
 ## 参考
 - [umi-uyura/dotfiles](https://github.com/umi-uyura/dotfiles)
 - [ryonakae/dotfiles](https://github.com/ryonakae/dotfiles)

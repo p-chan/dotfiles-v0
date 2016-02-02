@@ -35,6 +35,10 @@ Hotkey `- ⌥Space`
 ## Karabiner
 For Japaneseより、コマンドキーの動作を優先モード(★おすすめ)に変更する
 
+## Sublime Text 3
+- Package Controllをインストールする
+- [Sublime Text Icon, for Yosemite](https://dribbble.com/shots/1582459-Sublime-Text-Icon-for-Yosemite)
+
 ## Twitter
 以下コマンドでアイコンを丸に変更する
 `defaults write com.twitter.twitter-mac CircularAvatars -bool true`
